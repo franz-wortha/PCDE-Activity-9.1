@@ -1,6 +1,6 @@
 # Repository for Activities 9.1 and 9.2
 
-## To-Do List
+## To-Do Lists
 
 ### Activity 9.1
 * [x] Create repository
@@ -16,7 +16,7 @@
 * [x] Set up GitHub pages
 * [x] Keep `PCDE-Activity-9.1` up to date
 * [x] Update `README.md`
-* [ ] Publish `PCDE-Activity-9.1` on GitHub Pages
-* [ ] Verify `PCDE-Activity-9.1` on GitHub Pages
-* [ ] Add `PCDE-Activity-9.1` to portfolio
-* [ ] Submit
+* [x] Publish `PCDE-Activity-9.1` on GitHub Pages
+* [x] Verify `PCDE-Activity-9.1` on GitHub Pages
+* [x] Add `PCDE-Activity-9.1` to portfolio
+* [x] Submit
